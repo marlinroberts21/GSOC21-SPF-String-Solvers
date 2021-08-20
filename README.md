@@ -54,9 +54,13 @@ Examination of benchmark performance begun, reproducing benchmark setups through
 
 ## Deliverables:  
 
-Working z3str3 integration into SPF.  
+Working z3str3 integration into SPF. Notes on running z3str3 in SPF can be found
+[here](https://github.com/marlinroberts21/GSOC21-SPF-String-Solvers/blob/master/z3str3-integration.md).  
+
+Template for further string solver integrations. Notes on solver integration can be found [here](https://github.com/marlinroberts21/GSOC21-SPF-String-Solvers/blob/master/string-solver-integration.md).
+
 Working BSU input solver integration into SPF.   
-Template for further string solver integrations.  
+ 
 
 ## Remaining Work:  
 
