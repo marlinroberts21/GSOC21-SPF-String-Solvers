@@ -48,13 +48,9 @@ After discussion with mentors it was decided to add support for the BSU input so
 
 BSU input solver working, passing values back to SPF. Testing on string examples.
 
-##### 08/01 - 08/07  
+##### 08/01 - 08/14  
 
 Examination of benchmark performance begun, reproducing benchmark setups through Docker, initial examination of ABC performance on benchmarks to determine which failures were due to ABC and which might be attributed to JPF/SPF.
-
-##### 08/08 - 08/14  
-
-
 
 ## Deliverables:  
 
