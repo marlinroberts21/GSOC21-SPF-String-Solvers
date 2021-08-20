@@ -1,6 +1,10 @@
 # GSOC21-SPF-String-Solvers
 Documentation for GSOC 21 Project  
 
+The coding was performed in a forked copy of SPF located at:
+
+https://github.com/marlinroberts21/jpf-symbc  
+
 ## Objectives:  
 
 The overall objective is to improve string solver integration with SPF. This would be achieved by creating a template or example that could be followed when integrating solvers.
@@ -54,7 +58,7 @@ Examination of benchmark performance begun, reproducing benchmark setups through
 
 ## Deliverables:  
 
-Working z3str3 integration into SPF.
+Working z3str3 integration into SPF.  
 Working BSU input solver integration into SPF.   
 Template for further string solver integrations.  
 
