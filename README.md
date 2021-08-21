@@ -5,6 +5,12 @@ The coding was performed in a forked copy of SPF located at:
 
 https://github.com/marlinroberts21/jpf-symbc  
 
+In particular, the following branch contains the latest code:  
+
+https://github.com/marlinroberts21/jpf-symbc/tree/mjr/dev_init_igen 
+
+and is capable of automatically merging with https://github.com/SymbolicPathFinder/jpf-symbc 
+
 ## Objectives:  
 
 The overall objective is to improve string solver integration with SPF. This would be achieved by creating a template or example that could be followed when integrating solvers.
